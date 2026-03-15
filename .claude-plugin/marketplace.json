@@ -27,7 +27,7 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/canvas-design",
+        "./skills/canvas-design"
       ]
     },
     {
